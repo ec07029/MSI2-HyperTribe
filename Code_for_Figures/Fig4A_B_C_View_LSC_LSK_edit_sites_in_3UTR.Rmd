@@ -1,6 +1,6 @@
 ---
 title: "View LSC LSK edit sites"
-author: "Karen Chu"
+author: "K Chu"
 date: "8/5/2019"
 output: html_document
 ---
