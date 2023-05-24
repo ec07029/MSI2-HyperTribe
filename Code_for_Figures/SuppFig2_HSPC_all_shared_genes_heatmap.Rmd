@@ -1,6 +1,6 @@
 ---
 title: "Supp Fig 2 HSPC all shared genes heatmap"
-author: "Karen Chu"
+author: "K Chu"
 date: "1/7/2020"
 output: html_document
 ---
