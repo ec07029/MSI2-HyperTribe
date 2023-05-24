@@ -1,5 +1,6 @@
 ---
 title: "Plotting the gene targets of Msi2: FPKM vs editing frequency"
+author: "K Chu"
 output: html_document
 ---
 
