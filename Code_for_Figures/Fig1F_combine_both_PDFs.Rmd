@@ -1,5 +1,6 @@
 ---
 title: "Combine Msi2 HyperTRIBE edited site to nearest Msi2 motif in MOLM13 + Msi2 HyperTRIBE edited site in MOLM13 to nearest NB4 iCLIP motif"
+author: "K Chu"
 output: html_document
 ---
 
