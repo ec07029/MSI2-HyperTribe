@@ -1,5 +1,5 @@
 # LSC and LSK distance to motif probability density function plots
-# Karen Chu
+# author: "K Chu"
 # 2/12/2019
 
 # Purpose: Plotting probability density function of Msi2 HyperTRIBE edited sites to nearest MSI2 motif in LSC and LSK.
