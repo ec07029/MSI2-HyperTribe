@@ -1,6 +1,6 @@
 ---
 title: "HSPC MIG and ADAR gene expression heat map"
-author: "Karen Chu"
+author: "K Chu"
 date: "4/3/2019"
 output: html_document
 ---
