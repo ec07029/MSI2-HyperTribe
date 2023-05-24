@@ -1,5 +1,6 @@
 ---
 title: "LSC_LSK_combined_diff.freq > 0.6 heatmap"
+author: "K Chu"
 output: html_document
 ---
 
