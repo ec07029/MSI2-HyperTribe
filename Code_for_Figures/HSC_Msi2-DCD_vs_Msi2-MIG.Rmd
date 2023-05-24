@@ -1,5 +1,6 @@
 ---
 title: "Msi2-DCD vs Msi2-MIG in HSC population"
+author: K Chu
 output: html_document
 ---
 
