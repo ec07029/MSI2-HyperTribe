@@ -1,6 +1,6 @@
 ---
 title: "Edit sites per replicate"
-author: "Karen Chu"
+author: "K Chu"
 date: "12/9/2019"
 output: html_document
 ---
