@@ -1,5 +1,6 @@
 ---
 title: "normalize_read_counts"
+author: "K Chu"
 output: html_document
 ---
 
