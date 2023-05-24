@@ -1,6 +1,6 @@
 ---
 title: "ADA vs MIG"
-author: "Karen Chu"
+author: "K Chu"
 date: "1/6/2020"
 output: html_document
 ---
