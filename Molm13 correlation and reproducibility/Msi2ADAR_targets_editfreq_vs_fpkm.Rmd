@@ -35,7 +35,6 @@ ggplot(data = molm13_snp_counts_dedupped_significant, aes(x = ADA.frequency, y =
 
 Flip the axis because this is what Kharas and Leslie want.
 
-Dotted lines mean what?
 
 ```{r plot}
 save.path <- "/Users/chuk/Documents/MSI2-hyperTRIBE/Msi2ADAR_Supplemental/figures/"
