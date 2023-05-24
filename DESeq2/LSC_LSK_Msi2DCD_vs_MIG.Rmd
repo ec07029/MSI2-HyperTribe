@@ -1,5 +1,6 @@
 ---
 title: "LSC & LSK: Msi2-DCD vs Msi2-MIG"
+author: "K Chu"
 output: html_document
 ---
 
