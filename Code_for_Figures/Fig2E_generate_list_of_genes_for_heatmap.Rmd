@@ -1,5 +1,6 @@
 ---
 title: "Generate gene list for heatmap"
+author: "K Chu"
 output: html_document
 ---
 
