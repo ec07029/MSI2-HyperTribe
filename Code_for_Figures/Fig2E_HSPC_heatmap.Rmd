@@ -1,6 +1,6 @@
 ---
 title: "LSC and LSK heatmap"
-author: "Karen Chu"
+author: "K Chu"
 date: "10/30/2019"
 output: html_document
 ---
