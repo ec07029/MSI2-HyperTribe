@@ -1,5 +1,6 @@
 ---
 title: "Prepare betabinom input"
+author: "K Chu"
 output: html_document
 ---
 
