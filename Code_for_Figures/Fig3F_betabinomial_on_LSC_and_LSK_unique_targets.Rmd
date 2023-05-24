@@ -1,6 +1,6 @@
 ---
 title: "betabinomial on LSC and LSK unique targets"
-author: "Karen Chu"
+author: "K Chu"
 date: "10/24/2019"
 output: html_document
 ---
